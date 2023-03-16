@@ -1,0 +1,10 @@
+#include <stdio.h>
+#include <unistd.h>
+/**
+ * main - A c programm that prints a line to the standard error
+ * Return 1 (Succes)
+ */
+int main(void)
+{	fput("and tha tpiece of art is useful\" - Dora Kor pa, 2015-10-19\n", stdout);
+return (1);	
+}
